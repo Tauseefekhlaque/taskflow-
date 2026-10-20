@@ -1,0 +1,1 @@
+# Using MongoDB for tasks — no Django models needed here.
